@@ -1,0 +1,1 @@
+alert("you are accesing wikipidia comtent frod")

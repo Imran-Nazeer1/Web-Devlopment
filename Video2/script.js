@@ -1,0 +1,1 @@
+alert("otp sent succesfully in your given mno ")
