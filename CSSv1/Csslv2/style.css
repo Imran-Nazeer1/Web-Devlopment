@@ -1,0 +1,9 @@
+div{
+    background-color: aqua;
+    border: 2px solid brown;
+    
+    margin-right: 25px;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
