@@ -4,6 +4,7 @@
 }
 body{
     background-color: black;
+    display: flex;
 }
 .outer{
     height: 500px;
@@ -15,6 +16,7 @@ body{
     top: 0px;
     background-color: aliceblue;
     top: 20px;
+    margin: 10px;
 }
 .inner{
     border: 0.2px dotted black;
