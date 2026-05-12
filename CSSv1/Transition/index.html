@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Transition</title>
+    <style>
+        .container {
+            width: 80vw;
+            height: 70vh;
+            border: 2px solid black;
+        }
+
+        .box {
+            width: 8vw;
+            height: 7vh;
+            background-color: aquamarine;
+            /* transform: translate(55px, 80px); */
+            transition:all 3s ease-in;
+        }
+        .box:hover{
+            transform: translate(55px, 80px) scale(2);
+            background-color: black;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="container">
+        <div class="box"></div>
+    </div>
+</body>
+
+</html>
