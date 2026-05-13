@@ -120,6 +120,81 @@ select{
 
 .hero-section{
     background-image: url("hero2.jpg");
-    height: 600px;
+    height: 300px;
     background-size: cover;
 }
+.box{
+    height: 350px;
+    width: 300px;
+    /* border: 2px solid black; */
+    padding-top: 20px;
+    padding-left:20px;
+    padding-right: 20px;
+    background-color: white;
+}
+.content-section {
+    background-color: #e6e6e6;
+    display: flex;
+    justify-content: space-around;
+    padding-top: 10px;
+}
+.img1 {
+    background-image: url("Box1.jpg");
+    background-size: cover;
+    height: 70%;
+    padding-bottom: 15px;
+}
+.heading {
+    height: 20%;
+}
+.box a{
+    text-decoration: none;
+    margin-top: 10px;
+    display: block;
+}
+.img2 {
+    background-image: url("Box2.jpg");
+    background-size: cover;
+    height: 70%;
+    padding-bottom: 15px;
+}
+
+.img3 {
+    background-image: url("Box3.jpg");
+    background-size: cover;
+    height: 70%;
+    padding-bottom: 15px;
+}
+.img4 {
+    background-image: url("Box4.jpg");
+    background-size: cover;
+    height: 70%;
+    padding-bottom: 15px;
+}
+
+.img5 {
+    background-image: url("Box5.jpg");
+    background-size: cover;
+    height: 70%;
+    padding-bottom: 15px;
+}
+
+.img6 {
+    background-image: url("Box6.jpg");
+    background-size: cover;
+    height: 70%;
+    padding-bottom: 15px;
+}
+.img7 {
+    background-image: url("Box7.jpg");
+    background-size: cover;
+    height: 70%;
+    padding-bottom: 15px;
+}
+.img8{
+    background-image: url("Box8.webp");
+    background-size: cover;
+    height: 70%;
+    padding-bottom: 15px;
+}
+
