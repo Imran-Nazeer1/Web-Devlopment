@@ -198,3 +198,27 @@ select{
     padding-bottom: 15px;
 }
 
+.new-content{
+    height: 320px;
+    width: 1260px;
+    background-color: #e6e6e6;
+    overflow: hidden;
+}
+.white {
+    background-color: white;
+    height: 295px;
+    width: 1242px;
+    margin-left: 10px;
+    margin-top: 15px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.big-img{
+    background-image: url("Flight.jpg");
+    background-size: cover;
+    height: 93%;
+    width: 98%;
+    margin: 10px;
+}
+
